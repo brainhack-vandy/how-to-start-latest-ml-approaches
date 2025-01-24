@@ -14,6 +14,15 @@ To run the demo, ensure you have the following:
 - Required Python libraries (specified in requirements.txt, install them manually use pip/conda, or **follow the steps below**)
 
 ### Installation
+Here are two options for running the demo: you can either run it on Google Colab or set it up locally on your machine.
+
+#### Option 1: Run on Google Colab
+To run the demo on Colab, please save a copy of the notebook using the link below and modify it as needed:
+```
+https://colab.research.google.com/drive/1ZfTZU6E2wVoS2NuIDHpVaZGxRjxptIz_?usp=sharing
+```
+
+#### Option 2: Run Locally
 1. Clone/download this repository to your machine and navigate to the directory.
 2. We encourage you to use a `virtual environment` for this tutorial (and for all your projects).
    To do this, run the following commands in your terminal, it will create the environment in a folder named `eeg2fmri_env`
